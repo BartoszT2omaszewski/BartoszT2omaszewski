@@ -45,7 +45,7 @@
 
 <br/>  
   
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bartoszt2omaszewski&show_icons=true&locale=en&layout=compact" alt="bartoszt2omaszewski" align="center" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bartoszt2omaszewski&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="bartoszt2omaszewski" align="center" /></p>
   
 <br/>  
 
