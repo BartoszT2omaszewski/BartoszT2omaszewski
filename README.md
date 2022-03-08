@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/BartoszT2omaszewski/BartoszT2omaszewski/blob/main/flutter.jpg?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/BartoszT2omaszewski/BartoszT2omaszewski/blob/main/flutter2.jpg?raw=true" align="center" style="width: 100%" />
 </div>  
   
 
