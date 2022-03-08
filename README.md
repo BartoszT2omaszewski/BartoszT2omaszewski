@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Bartosz, a Flutter developer in development 👨‍💻 Interested in and learning Flutter since mid 2021 🚀</div>  
+### <div align="center">Hi there I'm Bartosz, a Flutter developer in development 👨‍💻 Interested in and learning Flutter since mid 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [Cheapest Stations](https://github.com/BartoszT2omaszewski/cheapest_stations.git)  
