@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/BartoszT2omaszewski/BartoszT2omaszewski/blob/main/add.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/BartoszT2omaszewski/BartoszT2omaszewski/blob/main/add.png?raw=true" align="center" style="width: 100%" style="height: 50%" />
 </div>  
   
 
