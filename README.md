@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">Hi I'm Bartosz, a Flutter developer in development 👨‍💻 Interested in and learning Flutter since mid 2021 🚀</div>  
+### <div align="center">Hi I'm Bartosz, a Flutter developer currently in development 👨‍💻 Interested in and learning Flutter since mid 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [Cheap Tank](https://github.com/BartoszT2omaszewski/cheap_tank.git)  
   
 
-- 🌱 I’m currently learning Unit testing  
+- 🌱 I’m currently learning Unit Testing  
   
 
 - ❓ Ask me about anything related to Flutter related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I have teached my 9 years old brother how to do simple UI builds using Flutter  
   
 
 <br/>  
