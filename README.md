@@ -40,14 +40,15 @@
 
 
  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BartoszT2omaszewski&show_icons=true&count_private=true&theme=nightowl&hide_border=true" align="center" /></div>  
 
-<br/>  
   
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bartoszt2omaszewski&show_icons=true&theme=dark&locale=en&layout=compact" alt="bartoszt2omaszewski" align="center" /></p>
   
 <br/>  
 
+  ## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BartoszT2omaszewski&show_icons=true&count_private=true&theme=nightowl&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 
