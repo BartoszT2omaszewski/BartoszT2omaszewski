@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Cheap Tank](https://github.com/BartoszT2omaszewski/cheap_tank.git)  
   
 
-- 🌱 I’m currently learning Unit Testing  
+- 🌱 I’m currently learning Bloc Testing  
   
 
 - ❓ Ask me about anything related to Flutter related technologies  
