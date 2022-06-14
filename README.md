@@ -6,7 +6,7 @@
 ### <div align="center">Hi I'm Bartosz, a Flutter developer currently in development 👨‍💻 Interested in and learning Flutter since mid 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Cheap Tank](https://github.com/BartoszT2omaszewski/cheap_tank.git)  
+- 🔭 I’m currently working on [Catch'em Ideas](https://github.com/BartoszT2omaszewski/catchem_ideas.git)  
   
 
 - 🌱 I’m currently learning Bloc Testing  
