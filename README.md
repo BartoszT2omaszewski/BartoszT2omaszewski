@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Catch'em Ideas](https://github.com/BartoszT2omaszewski/catchem_ideas.git)  
   
 
-- 🌱 I’m currently learning Bloc Testing  
+- 🌱 I’m currently learning Responsive Desing 
   
 
 - ❓ Ask me about anything related to Flutter related technologies  
