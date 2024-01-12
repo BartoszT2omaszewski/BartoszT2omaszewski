@@ -1,54 +1,27 @@
-<div align="center">
-<img src="https://github.com/BartoszT2omaszewski/BartoszT2omaszewski/blob/main/flutter2.jpg?raw=true" align="center" style="width: 100%" />
-</div>  
   
+  ### Hi, I'm Bartosz, an AI and Flutter Developer transforming ideas into innovative solutions 👨‍💻
+  - 🤖 Leading AI-driven projects with a focus on user-centric automation and advanced prompt engineering.
+  - 🔭 Enhancing Prompt Factory Assistant [PFA](https://github.com/BartoszT2omaszewski/Prompt-Factory), a tool for crafting precise AI prompts. 
+  - 🌟 Committed to delivering transformative technology and high-quality solutions.
 
-### <div align="center">Hi I'm Bartosz, a Flutter developer currently in development 👨‍💻 Interested in and learning Flutter since mid 2021 🚀</div>  
-  
+## About Me
+Bridging the latest in AI research with practical applications, I'm dedicated to architecting innovative, high-quality automation strategies. My approach combines strategic thinking and agile execution, ensuring meaningful results for your business.
 
-- 🔭 I’m currently working on [Catch'em Ideas](https://github.com/BartoszT2omaszewski/catchem_ideas.git)  
-  
+## Core Skills and Technologies
+- **AI and Machine Learning**: Specializing in the architecture of AI systems and automations.
+- **Prompt Engineering**: Expert in crafting high-precision prompts for AI models.
+- **Programming Prowess**: Proficient in Python, Django, Flask, Tensorflow, and Flutter & Dart for cross-platform development.
+- **Versatile Tools**: Skilled in using GenAI, API integrations, Vector Databases like Pinecone, and various automation tools.
 
-- 🌱 I’m currently learning Responsive Desing 
-  
+## Highlighted Projects
+- **Voice Client Satisfaction Surveying Bot**: Enhancing customer feedback processes in the hospitality industry.
+- **Hotel Team Email Automation**: Streamlining communications for hotel reception and MICE sales teams.
+- **Real Estate Listing Description Generator**: Automating property listings with AI-driven, engaging descriptions.
+- **Prompt Factory Assistant (PFA)**: Refining AI prompts for enhanced efficiency and relevance.
 
-- ❓ Ask me about anything related to Flutter related technologies  
-  
+## Collaboration 
+- Open to discussing new visions, challenges, and objectives through complimentary consultations.
 
-- ⚡ Fun fact: I have teached my 9 years old brother how to do simple UI builds using Flutter  
-  
-
-<br/>  
-
-
-## My Skill Set  
-
-
-
-</td><td valign="top" width="100%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
-
-
- 
-  ## Most used languages
-  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bartoszt2omaszewski&show_icons=true&theme=dark&locale=en&layout=compact" alt="bartoszt2omaszewski" align="center" /></p>
-  
-<br/>  
-
-  ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BartoszT2omaszewski&show_icons=true&count_private=true&theme=nightowl&hide_border=true" align="center" /></div>  
-
-<br/>  
-
+## Connect with Me
+Feel free to reach out for collaborations, inquiries, or to share ideas at [bartek.tomaszewski@silabris.com]
 
